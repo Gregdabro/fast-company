@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Создание приложения
+1. npx create-react-app [name of project]
+2. npm install bootstrap@[version]
+3. создаем папку components
+4. создаем файл Users.jsx
+5. импортируем React в Users.jsx
+6. создаем компонент Users и экпортируем его
+7. импортируем компонент Users в index.js
+8. добавляем Users в ReactDom в index.js
+9. создаем папку api и добавляем в нее файлы fake-api
+10. 
